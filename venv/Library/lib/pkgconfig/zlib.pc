@@ -1,0 +1,13 @@
+prefix=C:/Loveleen/Certification International Universities/Agentic AI/AgenticAI_New/venv/Library
+exec_prefix=C:/Loveleen/Certification International Universities/Agentic AI/AgenticAI_New/venv/Library
+libdir=C:/Loveleen/Certification International Universities/Agentic AI/AgenticAI_New/venv/Library/lib
+sharedlibdir=C:/Loveleen/Certification International Universities/Agentic AI/AgenticAI_New/venv/Library/lib
+includedir=C:/Loveleen/Certification International Universities/Agentic AI/AgenticAI_New/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
