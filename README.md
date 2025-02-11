@@ -26,14 +26,6 @@ Finance Agent is designed to streamline financial decision-making with AI-driven
 - Evaluates risk levels based on **volatility, historical performance, and sentiment analysis**.
 - Helps users diversify and **rebalance their portfolio** automatically.
 
-### 🛠 **Seamless Integration with Financial APIs**
-- Integrates with APIs like **Yahoo Finance, Alpha Vantage, and Agno's financial intelligence system**.
-- Provides real-time market updates, stock price tracking, and economic indicators.
-
-### 🔐 **Secure & Customizable AI Agents**
-- Allows users to **configure and train custom AI agents** for personalized financial insights.
-- Implements **encryption and secure authentication** to protect financial data.
-
 ---
 
 ## 🛠 Installation
